@@ -19,4 +19,4 @@ MonoBehaviour:
   - enumName: Scene0
     sceneAsset: {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
   - enumName: Scene1
-    sceneAsset: {fileID: 102900000, guid: 1b9e873cbf047684d946649dcb5ad3f1, type: 3}
+    sceneAsset: {fileID: 102900000, guid: 67c60d877c497d942b55a7f38c61fafd, type: 3}
