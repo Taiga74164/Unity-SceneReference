@@ -13,10 +13,10 @@ Type-safe scene management for Unity with automatic build settings management an
 ## Installation
 
 ### Option 1: Install via Git URL
-`https://github.com/Taiga74164/Unity-SceneReference?path=/Assets/Taiga74164`
+`https://github.com/Taiga74164/Unity-SceneReference.git?path=/Assets/Taiga74164`
 
 ### Option 2: Install via Manifest file
-`"taiga74164.scene-reference": "https://github.com/Taiga74164/Unity-SceneReference?path=/Assets/Taiga74164"`
+`"taiga74164.scene-reference": "https://github.com/Taiga74164/Unity-SceneReference.git?path=/Assets/Taiga74164"`
 
 ## Quick Start
 
