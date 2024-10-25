@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa232a60251873f47b58df172ba16928, type: 3}
+  m_Name: SceneReference
+  m_EditorClassIdentifier: 
+  sceneEnumPath: Assets/Examples/Generated/SceneIds.cs
+  sceneNamespace: Examples.Generated
+  sceneFolderPath: Assets/Scenes
+  sceneReferences:
+  - enumName: Scene0
+    sceneAsset: {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
+  - enumName: Scene1
+    sceneAsset: {fileID: 102900000, guid: 1b9e873cbf047684d946649dcb5ad3f1, type: 3}

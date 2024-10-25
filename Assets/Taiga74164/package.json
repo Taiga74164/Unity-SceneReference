@@ -1,0 +1,23 @@
+﻿{
+  "name": "taiga74164.scene-reference",
+  "version": "1.0.0",
+  "displayName": "Scene Reference",
+  "description": "A type-safe scene management solution for Unity projects that automatically manages build settings and generates scene enums.",
+  "unity": "2020.1",
+  "keywords": [
+    "scene",
+    "reference",
+    "management",
+    "build-settings",
+    "type-safe",
+    "enum-generator"
+  ],
+  "author": {
+    "name": "Taiga74164",
+    "url": "https://github.com/Taiga74164"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Taiga74164/Unity-SceneReference.git"
+  }
+}
